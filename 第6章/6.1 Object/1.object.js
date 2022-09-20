@@ -43,3 +43,4 @@ console.log(person[propertyName])
 person['first name'] = 'Li'
 
 console.log(person['first name'])
+

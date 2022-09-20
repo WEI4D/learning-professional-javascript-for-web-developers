@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c9883e6-c24a-413c-bb03-81cadbac52e1" name="Default Changelist" comment="doc: 配置.gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第6章/6.1 Object/1.object.js" beforeDir="false" afterPath="$PROJECT_DIR$/第6章/6.1 Object/1.object.js" afterDir="false" />
-    </list>
+    <list default="true" id="9c9883e6-c24a-413c-bb03-81cadbac52e1" name="Default Changelist" comment="feat: 学习object相关代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +55,7 @@
       <workItem from="1663429457417" duration="436000" />
       <workItem from="1663430088245" duration="1000" />
       <workItem from="1663430162132" duration="15000" />
-      <workItem from="1663430179368" duration="1664000" />
+      <workItem from="1663430179368" duration="2130000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 对象字面量">
       <created>1663430561696</created>
@@ -81,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663430661897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: 学习object相关代码">
+      <created>1663602095224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663602095224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 对象字面量" />
     <MESSAGE value="doc: 配置.gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="doc: 配置.gitignore" />
+    <MESSAGE value="feat: 学习object相关代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 学习object相关代码" />
   </component>
 </project>
